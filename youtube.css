@@ -1,0 +1,382 @@
+.outer-body
+{
+   width:100%;
+   height:650px;
+   background-color:#ffffff;
+   
+}
+body
+{
+    margin:0;
+
+    
+}
+.top-section
+{
+    width:100%;
+    height:57px;
+    background-color: #ffffff;
+    padding-left: 25px;
+    padding-top:16px;
+    float:left;
+
+}
+.menu
+{
+    width:20px;
+    height:1px;
+    background-color: #030303;
+     margin:6px;
+     
+}
+.logo
+{
+    font-size:27px;
+    float:left;
+    margin-left:35px;
+    margin-top:-27px;
+    text-decoration: none;
+    font-family:Helvetica,Arial,sans-serif;
+    padding-left:17px;
+}
+
+
+.srch
+{
+    width:44%;
+    height:31px;
+    margin-left: 105px;
+    margin-top:-30px;
+    padding-left:18px;
+    background-color: transparent;
+    font-size:16px;
+    font-weight:400;
+    border:1px solid gray;
+    
+    float:left;
+    
+}
+
+.butt
+{
+    width:42px;
+    height:35px;
+    margin-top:-30px;
+    float:left;
+}
+.voice
+{
+    font-size: 16px;
+    border-radius:19px;
+    padding-bottom: 8px;
+    padding-top: 11px;
+    width: 41px;
+    margin-left: 9px;
+    margin-top: -32px;
+    border-color: black;
+     background-color: #f0f4fa;
+    border:hidden;
+    cursor:pointer;
+    float: left;
+}
+.sign
+{
+   float:left;
+   margin-left: 130px;
+    margin-top: -28px;
+    width: 98px;
+    height: 36px;
+    border-color: #4d79ff;
+    border-radius:1px;
+     font-size:14px;
+     color: #4d79ff;
+     font-weight: bold;
+    
+}
+
+
+.left-section
+{
+    width:13%;
+    height:100%;
+    background-color: #ffffff;
+    
+    overflow-y:scroll;
+}
+div.left-section::-webkit-scrollbar{
+    width:14px;
+}
+div.left-section::-webkit-scrollbar-track
+{
+    background: white;
+    border-radius: 5px;
+}
+div.left-section::-webkit-scrollbar-thumb
+{
+    background-color:darkgray;
+border-radius: 20px;
+border:3px solid white;
+}
+.active
+{
+    
+    text-decoration:none;
+    padding-left:28px;
+    padding-bottom:20px;
+    color:#030303;
+    font-family: "Roboto","Arial",sans-serif; 
+    display:inline-block;  
+}
+.active:hover{
+    width:160px;
+    height:22px;
+    padding-left:30px;
+    padding-top:10px;
+    background-color:#f7f5f5 ;
+}
+.para
+{
+    font-family: "Roboto","Arial",sans-serif; 
+    margin-left:16px;
+    font-size:15px;
+
+}
+
+.sign-up
+{
+    margin-left: 36px;
+    height: 33px;
+    border-color:  #4d79ff;
+    color: #4d79ff;
+    width:100px;
+
+}
+.para-1
+{
+    margin-left: 22px;
+    font-family: "Roboto","Arial",sans-serif;
+    color: #606060;
+    font-size: 15px;
+    font-weight: 600;
+}
+.para-2
+{
+    margin-left: 15px;
+    font-family: "Roboto","Arial",sans-serif;
+    color: #606060;
+    font-size: 13px;
+    font-weight: 600;  
+}
+
+.right-section
+{
+    width:105%;
+    height:10px;
+    float:left;
+    margin-left:192px;
+    margin-top:-660px;
+    padding-left:20px;
+      
+}
+.Buttons
+{
+    width:49px;
+   padding:8px;
+   border-radius:20px;
+   border-color:#ffff;
+   font-size:15px;
+   font-family: "Roboto","Arial",sans-serif;
+    border:hidden;
+
+
+}
+.game{
+
+
+width:71px;
+   padding:8px;
+   border-radius:20px;
+   border-color:#ffff;
+   font-size:15px;
+   font-family: "Roboto","Arial",sans-serif;
+    border:hidden;
+    margin-left:12px;
+}
+.thrillers
+{
+    width:71px;
+   padding:8px;
+   border-radius:20px;
+   border-color:#ffff;
+   font-size:15px;
+   font-family: "Roboto","Arial",sans-serif;
+    border:hidden;
+    margin-left:12px;
+}
+.cricket
+{
+    width:71px;
+   padding:8px;
+   border-radius:20px;
+   border-color:#ffff;
+   font-size:15px;
+   font-family: "Roboto","Arial",sans-serif;
+    border:hidden;
+    margin-left:12px;
+}
+.allu-arjun
+{
+    width:83px;
+   padding:8px;
+   border-radius:20px;
+   border-color:#ffff;
+   font-size:15px;
+   font-family: "Roboto","Arial",sans-serif;
+    border:hidden;
+    margin-left:12px;
+}
+.music
+{
+    width:71px;
+   padding:8px;
+   border-radius:20px;
+   border-color:#ffff;
+   font-size:15px;
+   font-family: "Roboto","Arial",sans-serif;
+    border:hidden;
+    margin-left:12px;
+}
+.trailers
+{
+    width:71px;
+   padding:8px;
+   border-radius:20px;
+   border-color:#ffff;
+   font-size:15px;
+   font-family: "Roboto","Arial",sans-serif;
+    border:hidden;
+    margin-left:12px;
+}
+.cats
+{
+    width:71px;
+    padding:8px;
+    border-radius:20px;
+    border-color:#ffff;
+    font-size:15px;
+    font-family: "Roboto","Arial",sans-serif;
+     border:hidden;
+     margin-left:12px;
+ 
+}
+.gta
+{
+    width:130px;
+    padding:8px;
+    border-radius:20px;
+    border-color:#ffff;
+    font-size:15px;
+    font-family: "Roboto","Arial",sans-serif;
+     border:hidden;
+     margin-left:12px;
+ 
+}
+.bollywood
+{
+    width:130px;
+    padding:8px;
+    border-radius:20px;
+    border-color:#ffff;
+    font-size:15px;
+    font-family: "Roboto","Arial",sans-serif;
+     border:hidden;
+     margin-left:12px;
+ 
+}
+.fashion
+{
+    width:71px;
+    padding:8px;
+    border-radius:20px;
+    border-color:#ffff;
+    font-size:15px;
+    font-family: "Roboto","Arial",sans-serif;
+     border:hidden;
+     margin-left:12px;
+ 
+}
+.entertain
+{
+    width:130px;
+    padding:8px;
+    border-radius:20px;
+    border-color:#ffff;
+    font-size:15px;
+    font-family: "Roboto","Arial",sans-serif;
+     border:hidden;
+     margin-left:12px;
+}
+.short
+{
+    width:80px;
+    padding:8px;
+    border-radius:20px;
+    border-color:#ffff;
+    font-size:15px;
+    font-family: "Roboto","Arial",sans-serif;
+     border:hidden;
+     margin-left:12px;
+}
+.news
+{
+    width:80px;
+    padding:8px;
+    border-radius:20px;
+    border-color:#ffff;
+    font-size:15px;
+    font-family: "Roboto","Arial",sans-serif;
+     border:hidden;
+     margin-left:12px; 
+}
+.comedy
+{
+    width:80px;
+    padding:8px;
+    border-radius:20px;
+    border-color:#ffff;
+    font-size:15px;
+    font-family: "Roboto","Arial",sans-serif;
+     border:hidden;
+     margin-left:12px;
+}
+.video-section
+{
+    width:83%;
+    height:92%;
+    margin-left:193px;
+    margin-top:-600px;
+    padding-left:20px;
+    overflow-y:scroll;
+}
+div.video-section::-webkit-scrollbar{
+    width:14px;
+}
+div.video-section::-webkit-scrollbar-track
+{
+    background: #ffff;
+    border-radius: 5px;
+}
+div.video-section::-webkit-scrollbar-thumb
+{
+    background-color:darkgray;
+border-radius: 20px;
+border:3px solid white;
+}
+
+.video
+{
+    margin-left:9px;
+    height:149px;
+    width:259px;
+    margin-top: 10px;
+}
